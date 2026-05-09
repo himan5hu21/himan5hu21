@@ -43,14 +43,14 @@ I'm a passionate web developer focused on crafting clean, maintainable code and 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="Himanshu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himan5hu21&show_icons=true&theme=radical" alt="Himanshu's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan5hu21&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
 ### 📫 Let's Connect!
 
-<a href="YOUR_LINKEDIN_URL" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="YOUR_PORTFOLIO_URL" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="linkedin.com/in/himanshu-devaiya-4b61a9234" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[YOUR_PORTFOLIO_URL](https://himan5hu21.github.io/Himanshu_Portfolio/)" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:himanshudevaiya679@gmail.com"><img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
