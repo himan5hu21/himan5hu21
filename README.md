@@ -43,8 +43,8 @@ I'm a passionate web developer focused on crafting clean, maintainable code and 
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himan5hu21&show_icons=true&theme=radical" alt="Himanshu's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan5hu21&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=himan5hu21&show_icons=true&theme=radical&cache_seconds=1800" alt="Himanshu's GitHub Stats"  height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himan5hu21&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages"  height="180em" />
 </div>
 
 ---
